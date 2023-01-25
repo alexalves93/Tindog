@@ -5,4 +5,4 @@ This site was developed during the Udemy course called "The Complete 2023 Web De
 
 This website was created during the Bootstrap module of the course, where we applied our knowledge of HTML, CSS and learned Bootstrap at an intermediate level.
 
-View Live: https://alexalves93.github.io/Tindog/
+View live: https://alexalves93.github.io/Tindog/
